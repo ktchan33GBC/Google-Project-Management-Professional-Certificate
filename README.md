@@ -20,7 +20,7 @@
 ## Explore More
 Certificate link: https://www.coursera.org/account/accomplishments/professional-cert/FFFLC8M6WHVX
 
-![Certificate](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/blob/main/img/Specialization_Certificate_Coursera_Google_Business_Intelligence_Professional_Certificate.jpg)
+![Certificate](https://github.com/ktchan33GBC/Google-Project-Management-Professional-Certificate/blob/main/img/Specialization_Certificate_Coursera_Google_Project_Management_Professional_Certificate.jpg)
 
 <!-- USAGE EXAMPLES -->
 

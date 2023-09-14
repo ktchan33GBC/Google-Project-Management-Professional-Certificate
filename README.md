@@ -9,12 +9,12 @@
 
 
 ## Specialization Curriculum
-+ ### [Course_1_Foundations_of_Project_Management](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_1_Guided_Tour_of_Machine_Learning_in_Finance)
-+ ### [Course_2_Project_Initiation_Starting_a_Successful_Project](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_2_Fundamentals_of_Machine_Learning_in_Finance)
-+ ### [Course_3_Project_Planning_Putting_It_All_Together](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_3_Reinforcement_Learning_in_Finance)
-+ ### [Course_4_Project_Execution_Running_the_Project](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_1_Guided_Tour_of_Machine_Learning_in_Finance)
-+ ### [Course_5_Agile_Project_Management](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_2_Fundamentals_of_Machine_Learning_in_Finance)
-+ ### [Course_6_Capstone_Applying_Project_Management_in_the_Real_World](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_3_Reinforcement_Learning_in_Finance)
++ ### [Course_1_Foundations_of_Project_Management](https://github.com/ktchan33GBC/Google-Project-Management-Professional-Certificate/tree/main/Course_1_Foundations_of_Project_Management)
++ ### [Course_2_Project_Initiation_Starting_a_Successful_Project](https://github.com/ktchan33GBC/Google-Project-Management-Professional-Certificate/tree/main/Course_2_Project_Initiation_Starting_a_Successful_Project)
++ ### [Course_3_Project_Planning_Putting_It_All_Together](https://github.com/ktchan33GBC/Google-Project-Management-Professional-Certificate/tree/main/Course_3_Project_Planning_Putting_It_All_Together)
++ ### [Course_4_Project_Execution_Running_the_Project](https://github.com/ktchan33GBC/Google-Project-Management-Professional-Certificate/tree/main/Course_4_Project_Execution_Running_the_Project)
++ ### [Course_5_Agile_Project_Management](https://github.com/ktchan33GBC/Google-Project-Management-Professional-Certificate/tree/main/Course_5_Agile_Project_Management)
++ ### [Course_6_Capstone_Applying_Project_Management_in_the_Real_World](https://github.com/ktchan33GBC/Google-Project-Management-Professional-Certificate/tree/main/Course_6_Capstone_Applying_Project_Management_in_the_Real_World)
 
 
 ## Explore More

@@ -30,7 +30,7 @@ Certificate link: https://www.coursera.org/account/accomplishments/professional-
 
 
 ### Sauce & Spoon Pilot Project for Tabletop Menu Tablets Implementation and Expansion
-[Notebook](https://github.com/ktchan33GBC/Google-Project-Management-Professional-Certificate/tree/main/Course_6_Capstone_Applying_Project_Management_in_the_Real_World/Proj_Sauce_and_Spoon_Tablet_Launch)
+[Documents](https://github.com/ktchan33GBC/Google-Project-Management-Professional-Certificate/tree/main/Course_6_Capstone_Applying_Project_Management_in_the_Real_World/Proj_Sauce_and_Spoon_Tablet_Launch)
 
 
 + Completed a project charter, filling out key information including a project summary, SMART goals, scope, benefits, and costs.

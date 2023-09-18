@@ -2,9 +2,13 @@
  
 ## About this Specialization:
 
-+ Specialization provided by New York University , Available on Coursera platform.
++ Specialization provided by Google , Available on Coursera platform.
 
-+ Focus: Explain how Reinforcement Learning is used for stock trading, and become familiar with popular approaches to modeling market frictions and feedback effects for option trading.  
++ Focus: 
+    + Learn the foundations of Agile project management, with a focus on implementing Scrum events, building Scrum artifacts, and understanding Scrum roles
+    + Practice strategic communication, problem-solving, and stakeholder management through real-world scenarios
+
+
 
 
 
@@ -28,7 +32,7 @@ Certificate link: https://www.coursera.org/account/accomplishments/professional-
 
 
 ### Sauce & Spoon Pilot Project for Tabletop Menu Tablets Implementation and Expansion
-[Notebook](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/Course_7_Google_Advanced_Data_Analytics_Capstone/Captstone_Proj_Salifort_Motors_employee_retention.ipynb)
+[Notebook](https://github.com/ktchan33GBC/Google-Project-Management-Professional-Certificate/tree/main/Course_6_Capstone_Applying_Project_Management_in_the_Real_World/Proj_Sauce_and_Spoon_Tablet_Launch)
 
 
 + Completed a project charter, filling out key information including a project summary, SMART goals, scope, benefits, and costs.
@@ -37,6 +41,8 @@ Certificate link: https://www.coursera.org/account/accomplishments/professional-
 + Developed effective stakeholder reports by applying storytelling strategies to describe data.
 
 
-![Result](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/Course_7_Google_Advanced_Data_Analytics_Capstone/result_executive_summary.jpg)
+![Result](https://github.com/ktchan33GBC/Google-Project-Management-Professional-Certificate/blob/main/img/Result_Impact_Report_Sauce_and_Spoon_1.jpg)
 
 
+
+![Result](https://github.com/ktchan33GBC/Google-Project-Management-Professional-Certificate/blob/main/img/Result_Impact_Report_Sauce_and_Spoon_2.jpg)

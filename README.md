@@ -27,13 +27,14 @@ Certificate link: https://www.coursera.org/account/accomplishments/professional-
 ## Important Project
 
 
-### Providing data-driven suggestions for HR of Salifort Motors to deal with high employee retention rate
+### Sauce & Spoon Pilot Project for Tabletop Menu Tablets Implementation and Expansion
 [Notebook](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/Course_7_Google_Advanced_Data_Analytics_Capstone/Captstone_Proj_Salifort_Motors_employee_retention.ipynb)
 
 
-+ Assisted Salifort Motors in predicting employee attrition and identifying departure reasons using predictive models, including regression, Decision Tree, and Random Forest models.
-+ Conducted a comparison of feature importance between the Random Forest and Decision Tree models for employee attrition analysis.
-+ Presented concise one-page project insights to external stakeholders as the data professional at Salifort Motors.
++ Completed a project charter, filling out key information including a project summary, SMART goals, scope, benefits, and costs.
++ Examined project documentation and conduct research to identify tasks for a project and organize those project tasks and milestones in a project plan.
++ Determined quality standards and evaluate against those standards to ensure that the project is achieving the required level of quality.
++ Developed effective stakeholder reports by applying storytelling strategies to describe data.
 
 
 ![Result](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/Course_7_Google_Advanced_Data_Analytics_Capstone/result_executive_summary.jpg)

@@ -10,8 +10,6 @@
 
 
 
-
-
 ## Specialization Curriculum
 + ### [Course_1_Foundations_of_Project_Management](https://github.com/ktchan33GBC/Google-Project-Management-Professional-Certificate/tree/main/Course_1_Foundations_of_Project_Management)
 + ### [Course_2_Project_Initiation_Starting_a_Successful_Project](https://github.com/ktchan33GBC/Google-Project-Management-Professional-Certificate/tree/main/Course_2_Project_Initiation_Starting_a_Successful_Project)
